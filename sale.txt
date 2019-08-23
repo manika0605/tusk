@@ -1,3 +1,5 @@
 Welcome to github
 start making your repo
 go to create file wich can be any file
+learning how github operates
+yes
